@@ -13,4 +13,7 @@ elif country == 'America':
     else:
         print('不能考喔!')
 else:
-    print('請輸入_America or Taiwan')                   
+    print('請輸入_America or Taiwan')    
+
+
+ jkfjnjfkn       
